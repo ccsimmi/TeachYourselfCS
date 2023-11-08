@@ -21,6 +21,7 @@ These are not part of the [Teach yourself CS](https://teachyourselfcs.com/) but 
 
 ## 2023
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed)
+- [Head first Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/ref=sr_1_1?crid=2EQBICNMBCJIR&keywords=head+first+design+patterns&qid=1699470472&sprefix=head+first+design%2Caps%2C794&sr=8-1) I currently use PHP for OOP, as that is what I code with at work. 
 
 ## Books I would like to read soon
 - [Secret Life of programs](https://www.amazon.com/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1)
