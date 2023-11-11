@@ -11,7 +11,7 @@ These are not part of the [Teach yourself CS](https://teachyourselfcs.com/) but 
 
 > "I really like GO. After trying many other languages, such as PHP, Ruby and Java, I'd like to make GO my number one language"
 **GO**
-- [ ] [NetNinja's Introduction to Go playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM)
+- [x] [NetNinja's Introduction to Go playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM)
 - [ ] [Go in Action](https://www.manning.com/books/go-in-action)
 
 **C**
